@@ -21,7 +21,7 @@
   <string name="app_name">Linterna</string>
   <string name="about_title">Acerca de</string>
   <string name="about_close">Cerrar</string>
-  <string name="description">Este programa manipula el LED de la camara.\n</string>
+  <string name="description">Este programa manipula el LED de la cámara.\n</string>
   <string name="warning">Aviso: Dejar el flash LED encendido demasiado tiempo puede producir un sobrecalentamiento del mismo.\n\nEl modo \u00ABbrillo alto\u00BB ha sido probado durante 1 ó 2 horas, pero podría ser peligroso para el LED, llegando incluso a dañarlo.\n</string>
   <string name="license">Código original para Nexus One Torch escrito por Ben Buxton, liberado bajo licencia GPL, v3.\nhttp://n1torch.googlecode.com/\n\nGracias a David Prieto por el nuevo diseño.\n\nModificado para CyanogenMod por Steve Kondik.\n\n</string>
   <string name="warning_label">Aviso</string>
@@ -30,6 +30,7 @@
   <string name="brightwarn_accept">Aceptar</string>
   <string name="label_high">Brillo alto</string>
   <string name="label_strobe">Parpadeo</string>
+  <string name="label_screen_off">Apagar la linterna cuando esté apagada la pantalla</string>
   <string name="widget_options">Opciones</string>
   <string name="setting_widget_bright">Widget con brillo alto</string>
   <string name="setting_widget_strobe">Parpadeo activo</string>
@@ -38,4 +39,5 @@
   <string name="setting_add_widget">Añadir widget</string>
   <string name="not_torch_title">Linterna encendida</string>
   <string name="not_torch_toggle">Apagar linterna</string>
+  <string name="error_connect_camera">Linterna desactivada.\nNo se puede conectar con la interfaz de la cámara.</string>
 </resources>
