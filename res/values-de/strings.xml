@@ -26,11 +26,11 @@
   <string name="license">Entwickelt von Ben Buxton, veröffentlicht unter der GPLv3.\nhttp://n1torch.googlecode.com/\n\nDank an David Prieto für das neue Design.\n\n</string>
   <string name="warning_label">Warnung</string>
   <string name="brightwarn">Volle Helligkeit wurde erfolgreich für die Dauer einer halben Stunde getestet, aber die LED wurde dabei sehr warm und begann nach 45 Minuten vorübergehend zu flackern. Langzeiteffekte sind unbekannt.\n\nBisher gibt es keine Unterstützung für das Widget.\n\nDurch Auswahl von “Akzeptieren” bestätigen Sie, diese Funktion auf eigene Gefahr zu nutzen.</string>
-  <string name="brightwarn_negative">Nein Danke</string>
+  <string name="brightwarn_negative">Nein, danke</string>
   <string name="brightwarn_accept">Akzeptieren</string>
   <string name="label_high">Hohe Helligkeit</string>
   <string name="label_strobe">Stroboskop</string>
-  <string name="label_screen_off">Taschenlampe beim Abschalten des Bildschirmes ausschalten</string>
+  <string name="label_screen_off">Taschenlampe mit Bildschirm ausschalten</string>
   <string name="widget_options">Allgemeine Optionen</string>
   <string name="setting_widget_bright">Helles Widget</string>
   <string name="setting_widget_strobe">Stroboskop</string>

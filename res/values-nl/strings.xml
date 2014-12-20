@@ -54,6 +54,7 @@ Tik op \'Accepteren\u2019 om op eigen risico te gebruiken.</string>
   <string name="brightwarn_accept">Accepteren</string>
   <string name="label_high">Fel licht</string>
   <string name="label_strobe">Knipperen</string>
+  <string name="label_screen_off">Zaklamp uitschakelen op scherm uit</string>
   <string name="widget_options">Algemeen</string>
   <string name="setting_widget_bright">Helderheidswidget</string>
   <string name="setting_widget_strobe">Knipperend licht</string>
@@ -62,4 +63,5 @@ Tik op \'Accepteren\u2019 om op eigen risico te gebruiken.</string>
   <string name="setting_add_widget">Widget toevoegen</string>
   <string name="not_torch_title">Zaklamp actief</string>
   <string name="not_torch_toggle">Zaklamp uitschakelen</string>
+  <string name="error_connect_camera">Zaklamp is uitgeschakeld.\nKan geen verbinding maken met camera interface.</string>
 </resources>
